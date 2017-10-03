@@ -1,6 +1,0 @@
-#g it will ignore these folders
-node_modules
-
-#untracked files
-Thumbs.db
-
