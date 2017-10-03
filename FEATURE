@@ -1,2 +1,4 @@
-a big new featire
+a big new feature
+merge conflicts
+
 
