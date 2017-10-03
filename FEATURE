@@ -1,5 +1,3 @@
+<<<<<<< HEAD
 a big new feature
-merge conflicts
-skyaa
-meeeeeeeeeeeeeeeeeeeerge conffffffffffflicts
-yeet
+
